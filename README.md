@@ -7,7 +7,6 @@
 > Bianca (Bia de preferência 😁)<br>
 > Tenho 27 anos<br>
 > Amo ler livros<br>
-> Sou díficil de puxar assunto, mas quando puxam tento ser extrovertida e manter a conversa!<br>
 > Sonho em viajar para o maior número de lugares possíveis<br>
 <hr>
 ! Assistente Administrativo (Atualmente, por enquanto!)<br>
