@@ -1,16 +1,18 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+<h2> ## Hi there 👋</h2>
+    </head>
+<body>
+> Bianca (Bia de preferência ^^)
+> Tenho 27 anos
+> Amo ler livros
+> Sou díficil de puxar assunto, mas quando puxam tento ser extrovertida e manter a conversa!
+> Sonho em viajar para o maior número de lugares possíveis
 
-<!--
-**biacursi/biacursi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+! Assistente Administrativo (Atualmente, por enquanto!)
+! Desenvolvedora de Sistemas (ou o que pretendo ser rs)
+! Apaixonada por Front-End e buscando uma oportunidade de ingressar na área!
+</body>
+</html>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
