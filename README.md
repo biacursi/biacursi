@@ -9,15 +9,15 @@
 
 * **Status:** Disponível no mercado de trabalho - #OpenToWork
 * **Área de Interesse:** Desenvolvedora de Sistemas com foco em **Front-End**! 🚀
-* **Buscando:** Uma oportunidade para ingressar e crescer na área.
+* **Buscando:** Uma oportunidade para ingressar e crescer na área!
+
+---
 
 ### 💻 Conhecimentos Atuais
 
 Tenho conhecimento nas seguintes tecnologias e busco aprofundamento:
 
-* HTML5
-* CSS3
-* Javascript
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 ---
 **💡 Próximos passos:** Estou sempre aprendendo e em busca de novos desafios. Meu foco agora é aprofundar em Javascript e conhecer frameworks como React.
