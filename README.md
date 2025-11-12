@@ -27,4 +27,4 @@ Tenho conhecimento nas seguintes tecnologias e busco aprofundamento:
 [![E-mail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:biancacursi@hotmail.com)
 
 ---
-**💡 Próximos passos:** Estou sempre aprendendo e em busca de novos desafios. Meu foco agora é aprofundar em Javascript e conhecer frameworks como React.
+**💡 Próximos passos:** Estou sempre aprendendo e em busca de novos desafios. Meu foco agora é aprofundar em Javascript e conhecer frameworks como React e Tailwind através do Origamid.
