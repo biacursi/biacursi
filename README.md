@@ -2,7 +2,7 @@
 
 > **Bia de preferência** 😁
 > 
-> * 27 anos, amo ler e sonho em viajar para o maior número de lugares possíveis! 🌎
+> * 28 anos, amo ler e sonho em viajar para o maior número de lugares possíveis! 🌎
 ---
 
 ### ✨ Habilidades e Objetivos Profissionais
