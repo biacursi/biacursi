@@ -17,7 +17,7 @@
 
 Tenho conhecimento nas seguintes tecnologias e busco aprofundamento:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma)](https://skillicons.dev)
 
 ---
 
