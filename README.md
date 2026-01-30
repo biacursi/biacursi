@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Binca%20Cursi&fontSize=60r&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Binca%20Cursi&fontSize=60r&animation=fadeIn&fontColor=ffffff&strokeWidth=1)
 
 > **Bia de preferência** 😁
 > 
