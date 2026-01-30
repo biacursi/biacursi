@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Binca%20Cursi&fontSize=50&animation=fadeIn&fontColor=fffffff&ontAlign=30)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Binca%20Cursi&fontSize=50&animation=fadeIn&fontColor=#fffffff&fontAlign=30)
 > **Bia de preferência** 😁
 > 
 > * 28 anos, amo ler e sonho em viajar para o maior número de lugares possíveis! 🌎
