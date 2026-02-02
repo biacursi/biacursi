@@ -54,4 +54,5 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 [![E-mail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:biancacursi@hotmail.com)
 
 ---
-**💡 Próximo desafio:** Criar componentes reutilizáveis com React e dominar estilizações rápidas com Tailwind CSS!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=894fc2&customColorList=894fc2,ba79fc&height=120&section=footer)
