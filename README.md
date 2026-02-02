@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=ba79fc&height=150&section=header&text=Bianca%20Cursi&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=894fc2,ba79fc&height=200&section=header&text=Bianca%20Cursi&fontSize=40&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
 
 # Olá, eu sou a Bia! 👋
 > **Bia de preferência** 😁
@@ -32,7 +32,7 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 
 | Projeto | Descrição Técnica | Link |
 | :--- | :--- | :--- |
-| **✨ Meu Portfólio** | Minha vitrine pessoal. Foco em design limpo e responsividade. | [Acessar 🌐](https://biacursi.github.io/Portfolio/) |
+| **✨ Meu Portfólio** | Minha vitrine pessoal. Foco em design limpo, responsividade e identidade visual. | [Acessar 🌐](https://biacursi.github.io/Portfolio/) |
 | **🔍 Consulta de CEP** | Consumo de API externa (ViaCEP) usando JavaScript Assíncrono. | [Acessar 🌐](https://biacursi.github.io/consulta-CEP/) |
 | **🔐 Gerador de Senhas** | Lógica de programação para criação de senhas seguras e aleatórias. | [Acessar 🌐](https://biacursi.github.io/Gerador-senha/) |
 | **📱 FoneFake** | Estudo de interface e eventos de clique simulando um teclado numérico. | [Acessar 🌐](https://biacursi.github.io/FoneFake/) |
