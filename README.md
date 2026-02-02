@@ -14,9 +14,9 @@
 
 ### 💻 Conhecimentos Atuais
 
-Tenho conhecimento nas seguintes tecnologias e busco aprofundamento:
+Tenho conhecimento nas seguintes tecnologias e ferramentas e busco aprofundamento:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,vscode)](https://skillicons.dev)
 
 ---
 
