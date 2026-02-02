@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=894fc2&customColorList=894fc2,ba79fc&height=200&section=header&text=Bianca%20Cursi&fontSize=35&font=Muli&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=894fc2&customColorList=894fc2,ba79fc&height=200&section=header&text=Bianca%20Cursi&fontSize=35&font=Nanum+Gothic&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
 
 # Olá, eu sou a Bia! 👋
 > **Bia de preferência** 😁
