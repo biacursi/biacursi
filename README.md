@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=894fc2,ba79fc&height=200&section=header&text=Bianca%20Cursi&fontSize=40&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=894fc2&customColorList=894fc2,ba79fc&height=200&section=header&text=Bianca%20Cursi&fontSize=40&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
 
 # Olá, eu sou a Bia! 👋
 > **Bia de preferência** 😁
@@ -12,7 +12,7 @@
 
 * 🚀 **Foco:** Desenvolvedora de Sistemas com foco em **Front-End**.
 * 🎯 **Status:** Disponível para oportunidades — #OpenToWork.
-* 📚 **Evolução:** Aprofundando em **JavaScript** e iniciando estudos em **React** e **Tailwind** através da Origamid.
+* 📚 **Evolução:** Aprofundando em **JavaScript** e iniciando estudos em **React** e **Tailwind** através da [Origamid](https://www.origamid.com/).
 
 ---
 
