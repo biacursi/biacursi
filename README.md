@@ -39,6 +39,7 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-marcelino-cursii/)
 [![E-mail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:biancacursi@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biacursi/)
 
 ---
 
