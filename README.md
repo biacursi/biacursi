@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=894fc2&customColorList=894fc2,ba79fc&height=200&section=header&text=Bianca%20Cursi&fontSize=35&font=Nanum+Gothic&animation=fadeIn&fontColor=ffffff&fontAlignY=30)
 
 # Olá, eu sou a Bia! 👋
-> **Bia de preferência** 😁
 > 
-> 28 anos, amo ler e sonho em viajar para o maior número de lugares possíveis! 🌎
+> Tenho 28 anos, amo ler e sonho em viajar para o maior número de lugares possíveis! 🌎
 > Atualmente, estou transicionando de carreira para a tecnologia, unindo criatividade e código.
 
 ---
