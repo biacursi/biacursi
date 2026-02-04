@@ -18,12 +18,8 @@
 ### 💻 Conhecimentos e Ferramentas
 
 **Tecnologias que utilizo:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,vscode,git,github)](https://skillicons.dev)
-
-**Estudando no momento:**
-[![Learning](https://skillicons.dev/icons?i=react,tailwind,sass)](https://skillicons.dev)
-
 ---
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,vscode,git,github)](https://skillicons.dev)
 
 ### 📂 Meus Projetos em Destaque
 
