@@ -11,7 +11,7 @@
 
 * 🚀 **Foco:** Desenvolvedora de Sistemas com foco em **Front-End**.
 * 🎯 **Status:** Disponível para oportunidades — #OpenToWork.
-* 📚 **Evolução:** Aprofundando em **JavaScript** e iniciando estudos em **React** e **Tailwind** através da [Origamid](https://www.origamid.com/).
+* 📚 **Evolução:** Aprofundando em **JavaScript e CSS** através da [Origamid](https://www.origamid.com/).
 
 ---
 
