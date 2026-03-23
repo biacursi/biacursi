@@ -28,8 +28,8 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 | Projeto | Descrição Técnica | Link |
 | :--- | :--- | :--- |
 | **✨ Meu Portfólio** | Minha vitrine pessoal. Foco em design limpo, responsividade e identidade visual. | [Acessar 🌐](https://biacursi.github.io/Portfolio/) |
-| **🔍 Consulta de CEP** | Consumo de API externa (ViaCEP) usando JavaScript Assíncrono. | [Acessar 🌐](https://biacursi.github.io/consulta-CEP/) |
-| **🔐 Gerador de Senhas** | Lógica de programação para criação de senhas seguras e aleatórias. | [Acessar 🌐](https://biacursi.github.io/Gerador-senha/) |
+| **🚲 Bikcraft** | site institucional desenvolvido para uma empresa fictícia. | [Acessar 🌐](https://biacursi.github.io/bikcraft/) |
+| **🏬 Vivaz Cantareira II** |  Landing Page personalizada para a divulgação e venda de uma unidade residencial. | [Acessar 🌐](https://biacursi.github.io/vivazcantareira2/) |
 | **📱 FoneFake** | Estudo de interface e eventos de clique simulando um teclado numérico. | [Acessar 🌐](https://biacursi.github.io/FoneFake/) |
 
 ---
